@@ -14,7 +14,7 @@ A visão completa do meu projeto de TCC envolve a criação de um sistema mais a
 
 Com base na análise desses dados (previsão de chuva + nível do rio), o sistema teria o potencial de acionar **bombas de drenagem de forma automática**, otimizando a resposta em situações críticas, como as enfrentadas no Rio Grande do Sul. ⚙️
 
-## 💻 Este Projeto da Alura (O Script Atual)
+## 💻 Projeto da Alura (O Script Atual)
 
 O repositório que você está vendo agora representa uma etapa fundamental e um **módulo inicial** desse projeto de TCC maior. Este script Python foca especificamente na obtenção e análise da previsão meteorológica como um indicador preliminar de risco. 🔍📊
 
